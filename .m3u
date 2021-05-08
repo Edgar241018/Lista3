@@ -260,6 +260,8 @@ http://tecnotv.club/cane/geomex.php?c=2091&p=3&k=tecnotv&f=.m3u8
 #EXTINF:0 tvg-id="France24.fr" group-title="NOTICIAS",FRANCE 24
 http://tecnotv.club/cane/geomex.php?c=2402&p=3&k=tecnotv&f=.m3u8
 
+#EXTINF:0 tvg-id="Afizzionados.mx" group-title="DEPORTES",Afizzionados
+http://cdn89.sportsbay.site:2052/live-2/247/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjEgMTA6MzY6MTkgUE0maGFzaF92YWx1ZT1obW5scFI4dGs1UmdEQVdWVitRTUJnPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
 #EXTINF:0 tvg-id="ESPN+.mx" group-title="DEPORTES",ESPN +
 http://tecnotv.club/cane/geomex.php?c=167&p=3&k=tecnotv&f=.m3u8
 #EXTINF:0 tvg-id="ESPN.mx" group-title="DEPORTES",ESPN
